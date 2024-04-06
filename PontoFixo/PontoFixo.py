@@ -34,6 +34,8 @@ class CPontoFixo():
     def g(self, x0):
         return (x0+1) ** (1/3)
 
+class CFuncao1(CPontoFixo):
+    
 
 # -----------------------------------------------------------------------------
 # Função Principal
